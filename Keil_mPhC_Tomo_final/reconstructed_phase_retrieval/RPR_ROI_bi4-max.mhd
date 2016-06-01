@@ -1,0 +1,8 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = True
+DimSize = 230 282 512
+ElementSize = 25.714285714 25.714285714 25.714285714
+ElementType = MET_USHORT
+ElementDataFile = RPR_ROI_bi4-max.raw
