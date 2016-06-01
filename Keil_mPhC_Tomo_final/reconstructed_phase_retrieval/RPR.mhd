@@ -1,0 +1,8 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = True
+DimSize = 1236 1244 2048
+ElementSize = 6.42857143 6.42857143 6.42857143
+ElementType = MET_USHORT
+ElementDataFile = RPR.raw
